@@ -5,4 +5,4 @@ In this capstone project, data from job postings, training portals, and surveys 
 
 **Skills:** Python, Data Collection (Web-Scraping, APIs), Data Wrangling, Statistical Analysis, Data Analytics, Dashboards, Presentations, Database Management, IBM Cognos Analytics
 
-[Cognos](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM-DA-C9-Dashboard&action=view&mode=dashboard&subView=model0000019071e5b762_00000002)
+[IBM Cognos](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM-DA-C9-Dashboard&action=view&mode=dashboard&subView=model0000019071e5b762_00000002)
