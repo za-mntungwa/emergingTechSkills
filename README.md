@@ -1,4 +1,4 @@
-# Data Analysis: Emerging Skills in Tech
+# Analysing Emerging Skills in Tech
 <img width="1170" alt="Thumbnail" src="https://github.com/user-attachments/assets/a5422b54-2a30-4e64-9674-5c1ee0657b3c">
 
 In this capstone project, data from job postings, training portals, and surveys was analysed to predict emerging skill demands. Using web scraping and APIs, data was gathered in diverse formats like .csv, Excel, and databases. After rigorous data wrangling and statistical analysis, interactive dashboards to were created to visualise findings and present actionable insights to stakeholders, showcasing proficiency in data analysis and storytelling.
