@@ -5,4 +5,4 @@ In this project, data from job postings, training portals, and surveys was analy
 
 **Skills:** Python, Data Collection (Web-Scraping), Data Wrangling, Statistical Analysis, Data Analytics, Dashboards, Presentations, Database Management, IBM Cognos Analytics
 
-[IBM Cognos](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM-DA-C9-Dashboard&action=view&mode=dashboard&subView=model0000019071e5b762_00000002)
+[Cognos Analytics Dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM-DA-C9-Dashboard&action=view&mode=dashboard&subView=model0000019071e5b762_00000002)
